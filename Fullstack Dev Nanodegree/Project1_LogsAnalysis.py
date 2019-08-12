@@ -4,10 +4,6 @@ import psycopg2
 from time import sleep
 import datetime
 
-# The 'menu' section is only intended to add a fun interface to the project -
-# nothing special, but it definitely made it quicker to run through any given
-# answer without altering what functions are called in the code.
-
 DBNAME = "news"
 
 
